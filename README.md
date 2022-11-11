@@ -1,13 +1,20 @@
 # 👋  Hey I'm Akshit
 **`Digital Craftsman`**
+
+
+
 Hey Everyone I am a learning developer from India. Aspiring to create coding projects from the ground up, 
 Planning and designing all the way to solving real-life problems with code. 
+
+
 
 ### Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshit-raj-43195a209/) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Akshit_Raj/)    
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshitraj43@gmail.com)
+
+
 
 ### 🧰 Languages and Tools
 
