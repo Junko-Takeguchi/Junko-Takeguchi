@@ -3,7 +3,7 @@
 
 
 
-Hey Everyone I am a learning developer from India. Aspiring to create coding projects from the ground up, 
+Hey Everyone I am a developer from India. Aspiring to create coding projects from the ground up, 
 Planning and designing all the way to solving real-life problems with code. 
 
 
